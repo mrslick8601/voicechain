@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "canisters": {
+    "voicechain_backend": {
+      "type": "motoko",
+      "main": "src/voicechain_backend/main.mo"
+    },
+    "voicechain_frontend": {
+      "type": "assets",
+      "source": ["dist/"]
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:4943",
+      "type": "ephemeral"
+    },
+    "ic": {
+      "providers": ["https://icp0.io"],
+      "type": "persistent"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env"
+}
