@@ -1,6 +1,5 @@
 # 🎙️ VoiceChain - Decentralized Voice Commerce Platform
 
-![VoiceChain Logo](https://img.shields.io/badge/VoiceChain-Voice%20Commerce-blue?style=for-the-badge&logo=microphone)
 
 ## 🌟 Overview
 
@@ -139,27 +138,12 @@ The app supports three theme modes:
 - **Dark**: Modern dark theme  
 - **Auto**: Follows system preference
 
-## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
 
-- **Live Demo**: [https://your-canister-id.ic0.app](https://your-canister-id.ic0.app)
-- **Documentation**: [docs.voicechain.io](https://docs.voicechain.io)
-- **Discord**: [Join our community](https://discord.gg/voicechain)
-- **Twitter**: [@VoiceChainHQ](https://twitter.com/VoiceChainHQ)
+- **Live Demo**: [https://i6tmv-sqaaa-aaaao-a4m6q-cai.icp0.io/]
+
 
 ## 🙏 Acknowledgments
 
@@ -167,12 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - DFINITY Foundation for developer tools and support
 - Open source community for the incredible libraries and tools
 
-## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/voicechain?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/voicechain?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/voicechain)
-![GitHub license](https://img.shields.io/github/license/yourusername/voicechain)
 
 ---
 
